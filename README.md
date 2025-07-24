@@ -89,12 +89,10 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
   git clone https://github.com/your-username/smart_shop.git
   cd smart_shop
 ```
-
 2. **Install dependencies**
    ```bash
    flutter pub get
 ```
-
 ```
 3. **Run the app**
    ```bash
