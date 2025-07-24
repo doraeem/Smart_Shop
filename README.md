@@ -83,6 +83,7 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
 <img width="527" height="626" alt="Profile" src="https://github.com/user-attachments/assets/2b8cc0cf-7e08-4604-a7ae-ac7ef05396b9" />
 
 
+
 1. **Clone the repository**
   ```bash
   git clone https://github.com/your-username/smart_shop.git
@@ -94,6 +95,7 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
    flutter pub get
 ```
 
+```
 3. **Run the app**
    ```bash
    flutter run
