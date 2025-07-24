@@ -97,4 +97,5 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
 3. **Run the app**
    ```bash
    flutter run
+```
 
