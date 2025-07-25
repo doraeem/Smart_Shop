@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Smart_Shop
 
 Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide a seamless and visually appealing shopping experience. It integrates real-time product data from the [FakeStore API](https://fakestoreapi.com), with persistent login, theme toggling, cart and favourites functionalities.
@@ -99,7 +98,4 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
    ```bash
    flutter run
 
-=======
-# Smart Shop
 
-This is my Flutter e-commerce app.
