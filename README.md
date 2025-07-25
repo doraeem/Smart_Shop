@@ -62,25 +62,25 @@ Smart Shop is a mini e-commerce app built using **Flutter**, designed to provide
  ✅ Modular use of `Provider` for all state management
 
 ## Login Screen
-<img width="589" height="576" alt="Login" src="https://github.com/user-attachments/assets/ae580d5f-2012-45f6-859d-9a465e4faafd" />
+<img width="589" height="576" alt="Login" src="https://github.com/user-attachments/assets/9bd98686-4704-4fb8-8e4b-e17a67a923a2" />
 
 ## Home Screen
-<img width="636" height="613" alt="List" src="https://github.com/user-attachments/assets/fd6021c5-2a32-4e74-9345-7bcb21befa40" />
+<img width="636" height="613" alt="List" src="https://github.com/user-attachments/assets/9f4dc564-c8a3-4904-8540-08d6f36838e8" />
 
 ## Cart Screen
-<img width="479" height="620" alt="Cart" src="https://github.com/user-attachments/assets/4dba9b35-4068-4133-a7f3-2d2f86d32968" />
+<img width="479" height="620" alt="Cart" src="https://github.com/user-attachments/assets/334d1b08-829b-4994-8b7b-c3ce3ee1b093" />
 
 ## Favourites Screen
-<img width="543" height="620" alt="Favourites" src="https://github.com/user-attachments/assets/05adc0a4-8609-4517-90c6-718467e4c793" />
+<img width="543" height="620" alt="Favourites" src="https://github.com/user-attachments/assets/a34a4bb7-c5ed-4450-8b33-392fcce37c67" />
 
 ## Category(Rating) Screen
-<img width="639" height="614" alt="Screenshot 2025-07-25 at 1 39 34 AM" src="https://github.com/user-attachments/assets/d48fef5c-d7be-47df-8819-6ed3a7fc56c9" />
+<img width="639" height="614" alt="Screenshot 2025-07-25 at 1 39 34 AM" src="https://github.com/user-attachments/assets/17f3e485-ceff-4108-b0ea-6c6e3d80c34a" />
 
 ## Theme Screen
-<img width="541" height="605" alt="Theme" src="https://github.com/user-attachments/assets/14d28561-4f46-4afc-b33a-8421ba27fc0c" />
+<img width="541" height="605" alt="Theme" src="https://github.com/user-attachments/assets/ccdfb2e6-bb44-470d-ae5d-5fa275acc5e1" />
 
 ## Profile Screen
-<img width="527" height="626" alt="Profile" src="https://github.com/user-attachments/assets/2b8cc0cf-7e08-4604-a7ae-ac7ef05396b9" />
+<img width="527" height="626" alt="Profile" src="https://github.com/user-attachments/assets/58c8f310-e5e5-44c6-80fa-0178e6d1bef3" />
 
 
 
